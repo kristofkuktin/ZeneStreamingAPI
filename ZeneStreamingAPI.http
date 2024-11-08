@@ -1,0 +1,6 @@
+@ZeneStreamingAPI_HostAddress = http://localhost:5193
+
+GET {{ZeneStreamingAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
